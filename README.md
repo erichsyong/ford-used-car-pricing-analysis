@@ -26,6 +26,20 @@ A variety of regression techniques were applied, including:
 - **Transmission & MPG**: Semi-automatic transmissions are associated with higher prices despite lower fuel efficiency, possibly reflecting their presence in higher-end models.
 - **Age & Mileage**: Both are statistically significant predictors of price, with higher age and mileage lowering vehicle value. A WLS model improved fit and reduced heteroscedasticity.
 
+## Repository Structure
+
+### /code/
+- R code.pdf  
+- R code.docx
+
+### /report/
+- final report.pdf  
+- final report.docx  
+- exploratory data analysis.pdf  
+- exploratory data analysis.docx  
+- presentation.pdf  
+- presentation.pptx
+
 ## Tools and Packages
 
 - Language: R  
